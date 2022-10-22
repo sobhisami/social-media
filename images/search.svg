@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="44" viewBox="0 0 61 44">
+  <g id="Group_48095435" data-name="Group 48095435" transform="translate(-1239 -16)">
+    <path id="Rectangle_12" data-name="Rectangle 12" d="M0,0H43A18,18,0,0,1,61,18v8A18,18,0,0,1,43,44H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1239 16)" fill="#00acff"/>
+    <g id="Search" transform="translate(1258 28)">
+      <rect id="Search-2" data-name="Search" width="20" height="20" fill="rgba(0,0,0,0)"/>
+      <g id="Iconly_Light-Outline_Search" data-name="Iconly/Light-Outline/Search">
+        <g id="Search-3" data-name="Search">
+          <path id="Combined-Shape" d="M8.116,0a8.112,8.112,0,0,1,5.979,13.6L16.7,16.2a.625.625,0,0,1-.883.885l-2.64-2.633A8.114,8.114,0,1,1,8.116,0Zm0,1.25a6.865,6.865,0,1,0,6.865,6.865A6.873,6.873,0,0,0,8.116,1.25Z" transform="translate(1.666 1.667)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
